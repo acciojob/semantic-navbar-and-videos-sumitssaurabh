@@ -1,2 +1,19 @@
+.navbar{
+    background-color: rgb(43, 197, 197);
+}
+.navbar li {
+    float: left;
+    list-style : none;
+    padding: 3px 3px;
+    margin: 3px 3px;
+}
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar ul a{
+
+    color: aliceblue;
+}
 
 /* Your CSS Code here. */
